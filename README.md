@@ -1,4 +1,4 @@
-Game: Snake
+# Game: Snake
 
 This is a terminal-based version of the classic Snake game, written in Python.
 
@@ -6,7 +6,8 @@ This is a terminal-based version of the classic Snake game, written in Python.
 - Player-controlled snake using keyboard input
 
 
-  ## How to Run
-  Open file: snake_game.py
+## How to Run
+
+Open file: snake_game.py
   
-  Control the snake with: (w) up, (s) down, (a) left, (d) right
+Control the snake with: (w) up, (s) down, (a) left, (d) right
